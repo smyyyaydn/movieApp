@@ -7,4 +7,5 @@ export const Movies: Movie[] = [
   {id: 4, name:"movie 4"},
   {id: 5, name:"movie 5"},
   {id: 6, name:"movie 6"},
+  {id: 7, name:"movie 7"},
 ];
